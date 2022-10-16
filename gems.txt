@@ -11,10 +11,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-6407915308889518~3347511713",
-	"interId": "",
+	"AdmobAppId": "ca-app-pub-6687779687898901~8444666575,
+	"interId": "ca-app-pub-6687779687898901/8197254560",
 	"bannerId": "",
-	"rewardadmob": "",
+	"rewardadmob": "ca-app-pub-6687779687898901/9921399772",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
@@ -24,8 +24,8 @@
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "4741273",
-	"UnityInter": "Interstitial_Android",
-	"Unitybanner": "Banner_Android",
-	"unityreward": "Rewarded_Android"
+	"UnityAppId": "4974655",
+	"UnityInter": "Interstitial_iOS",
+	"Unitybanner": "Banner_iOS",
+	"unityreward": "Rewarded_iOS"
 }
